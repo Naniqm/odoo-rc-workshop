@@ -1,0 +1,1 @@
+Small pet project RC Workshop for Odoo
